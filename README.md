@@ -114,5 +114,27 @@ Features such as Unlawful possession of handgun and Retail Theft are highest pos
 
 
 
+# Recommendations/Conclusions:
+    
+## Type of Crime: 
+Battery, Theft, and Criminal Damage account for > 50% of all crimes and should be prioritized by the department. This could be done by bringing out awareness amongst public and imposing stricter fines for these particular crime types.
+
+## Month of Crime: 
+Serious offence crimes, i.e., crimes leading arrests are peaking in the month of January each year. Hence, better preparation to counter such serious offences should be in place
+
+## Place of Crime: 
+Street, Apartments and Residence account for around 60% of the crime locations and there is huge gap between the distributions of crime over rest of the locations. Hence, better manpower planning is required to place them in these areas which have high proportion of crimes
+
+## Description of Crime: 
+The most common locations of crime such as Streets, Apartments and Residences have top five crime descriptions which occur very freqeuntly. The City to take a top down approach, countering crimes which are occuring more frequently first to bring down the crime rate in these areas.
+
+## District Specific Recommendation: 
+District 31 has very low frequency of crime. If this is not a result of a data collection error, this district could be a ideal or low crime District in Chicago. The city could study in detail what attributes are working good for that district and could replicate the learning to other priority districts too. The high priority District 11 needs attention as it has highest rates of arrestable crimes and narcotics crime rate of 35% out of the total narcotics crime in all districts of Chicago.
+
+## Time of Crime:
+After visualizing timestamps we could observe that the data is incomplete for time variable as the data contains timestamps between 12am midnight and 12pm noon. We couldn't find values of timestamps of crimes happening between 1pm to 12am midnight. This could have enhanced our time analysis in more depth 
+
+## Crimes Leading to Arrests
+Specific crimes like 'Unlawful possession of handgun' and 'Retail Theft' having higher probability of arrestable crimes and could be more closely monitored specifically for this category to arrest the arrest rates in the City. In terms of seasonality, the City should monitor the factors of why more arrestable crimes are proabable in Jan and Feb month compared to whole year. Also, in terms of locations, sidewalks needs to be more secure to avoid arrestable crimes in the City
 
 
